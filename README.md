@@ -2,13 +2,12 @@
 
 🌎 I'm a Full-Stack Developer working in Niterói, Brazil.
 
-🏢 Head of development on [Tagme Food Solutions](http://tagme.com.br/)
-⚙️ Working completely with Javascript! 
-- 📑 MongoDB
-- 💻 NodeJs + NestJs
-- 🖌️ Angular
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuliomir)
+- 🏢 Head of development on [Tagme Food Solutions](http://tagme.com.br/)
+- ⚙️ Working completely with Javascript! 
+  - 📑 MongoDB
+  - 💻 NodeJs + NestJs
+  - 🖌️ Angular
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuliomir)
 
 
 
