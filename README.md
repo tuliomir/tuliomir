@@ -1,8 +1,8 @@
 ## Hi, I'm Túlio! 👋
 
-🌎 I'm a Full-Stack Developer working in Niterói, Brazil.
+🌎 I'm a Full-Stack Developer working in Rio de Janeiro, Brazil.
 
-- 🏢 Software Engineer at [Hathor Network](http://hathor.network/)
+- 🏢 Software Engineer, proudly at [Hathor Network](http://hathor.network/)
 - ⚙️ Working with Web3! 
   - 📑 MongoDB, RocksDB
   - 💻 NodeJs, Python
