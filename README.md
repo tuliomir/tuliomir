@@ -2,9 +2,9 @@
 
 🌎 I'm a Full-Stack Developer working in Rio de Janeiro, Brazil.
 
-- 🏢 Software Engineer, proudly at [Hathor Network](http://hathor.network/)
+- 🏢 Software Engineer, proudly promoting quality and transparency at [Hathor Network](http://hathor.network/)
 - ⚙️ Working with Web3! 
-  - 📑 MongoDB, RocksDB
+  - 📑 MongoDB, SQL
   - 💻 NodeJs, Python
   - 🖌️ React, Angular
 - 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/tuliomir)
