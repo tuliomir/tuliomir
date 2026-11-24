@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.png">
+  <source media="(prefers-color-scheme: light)" srcset="assets/banner-light.png">
+  <img alt="TulioMir Software — tuliomir.com" src="assets/banner-dark.png">
+</picture>
+
 # Hi, I'm Túlio 👋
 
 **Software Engineering · Quality · AI-assisted Development**
